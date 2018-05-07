@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lukas Müller",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint-config-google": "^0.9.1",
     "typescript": "^2.8.3"
