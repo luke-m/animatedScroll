@@ -1,6 +1,6 @@
 {
   "name": "animated-smooth-scroll-to",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to replicate the easy functionality of jQuery's animate to perform a smooth scroll.",
   "main": "src/index.js",
   "scripts": {
