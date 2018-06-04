@@ -13,5 +13,6 @@ function animatedScroll(elementY, duration) {
             window.requestAnimationFrame(step);
         }
     });
+    console.log('animated scroll initialized');
 }
 //# sourceMappingURL=index.js.map
