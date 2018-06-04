@@ -12,4 +12,6 @@ function animatedScroll(elementY: number, duration: number) {
 			window.requestAnimationFrame(step);
 		}
 	})
+
+	console.log('animated scroll initialized');
 }
